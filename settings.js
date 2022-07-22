@@ -25,13 +25,13 @@ My Creator is pethum` //Costomize Alive Message (type your message in `` )
 
 global.owner = ['+94781704784'] //Owner number in aive msg
 global.premium = ['+94781704784'] //Owner Number info
-global.ownernomer = '+94774579505' //Owner Number <<<
+global.ownernomer = '+94781704784' //Owner Number <<<
 
 global.ownername = 'Resandu' //Owner Name
 global.botname = ' ☬RED༒DRAGON' //Bot Name
 
 global.button = '🤭මේක ටච් කරන්න📍' //Costomize A Button Name In Alive Message
-global.btnurl = 'http:/wa.me/+94774579505' //Change Your Button's URL
+global.btnurl = 'http:/wa.me/+94781704784' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
